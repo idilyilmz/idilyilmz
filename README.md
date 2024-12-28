@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, planes, concerts, reading and dogs!
 - 🌱 I’m currently learning JavaScript/TypeScript and Java
 <!--- - 💞️ I’m looking to collaborate on --->
-- 📫 You can reach me via idil.yilmaz@hva.nl
+- 📫 You can reach me via idilyilmaz1@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I look over at a flying plane, most of the time I see which type of aircraft that is
 
