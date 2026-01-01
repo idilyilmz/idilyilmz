@@ -20,4 +20,4 @@
 
 ### 🌟 Let's Connect!
 [![Gmail](https://img.shields.io/badge/email-E6CCF3?style=for-the-badge&logo=gmail&logoColor=4B4B4B)](mailto:idilyilmaz1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-E6CCF3?style=for-the-badge&logo=linkedin&logoColor=4B4B4B)](open:https://www.linkedin.com/in/idil-yilmaz-software/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-E6CCF3?style=for-the-badge&logo=linkedin&logoColor=4B4B4B)](https://www.linkedin.com/in/idil-yilmaz-software/)
