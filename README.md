@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-CDE8FF?style=for-the-badge&logo=typescript&logoColor=4B4B4B) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=4B4B4B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-E6CCF3?style=for-the-badge&logo=kotlin&logoColor=4B4B4B)
-
+![Python](https://img.shields.io/badge/Python-E6CCF3?style=for-the-badge&logo=python&logoColor=4B4B4B)
 
 ---
 
